@@ -21,7 +21,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Finance View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Finance-View.pdf)_
+    **1.** Created a Dashboard for _[Finance View](https://github.com/RaihanFAU/Atliq-Hardware-Business-Insights/blob/main/Finance-view.pdf)_
 
 - **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
@@ -33,7 +33,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Sales View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Sales-View.pdf)_
+    **1.** Created a Dashboard for _[Sales View](https://github.com/RaihanFAU/Atliq-Hardware-Business-Insights/blob/main/Sales-view.pdf)_
   
 - **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
@@ -47,7 +47,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Marketing View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Marketing-View.pdf)_
+    **1.** Created a Dashboard for _[Marketing View](https://github.com/RaihanFAU/Atliq-Hardware-Business-Insights/blob/main/Marketing-View.pdf)_
 
 - **Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
   
@@ -61,7 +61,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Supply Chain View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Supply-Chain-View.pdf)_
+    **1.** Created a Dashboard for _[Supply Chain View](https://github.com/RaihanFAU/Atliq-Hardware-Business-Insights/blob/main/Supply-Chain-View.pdf)_
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
 
@@ -73,7 +73,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Executive View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Executive-View.pdf)_
+    **1.** Created a Dashboard for _[Executive View](https://github.com/RaihanFAU/Atliq-Hardware-Business-Insights/blob/main/Exicutive-View.pdf)_
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin % and Net Profit % compared with their benchmark values(Last Year/Targets).
 
@@ -83,17 +83,7 @@
 
 - **Yearly Trend of Net Sales, Gross Margin %, Net Profit % and PC Market Share %** using a Line and Clustered Colmun Chart.
 
-## Product View :
-
-- **View objective:** 
-
-    **1.** Created a Dashboard for _[Product View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Product-View.pdf)_
-
-- **Customer Performance by GM % Target** with Conditional formatting for a specific target value to tell which customer a re mettng the goals.
-
-- **Top 5 and Bottom 5 Product for Market**: Top 5 and Bottom 5 Products filtered by Gross Margin %, Gross Margin % LY and Gross Margin % Growth.   
-
-
+  
 ## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
